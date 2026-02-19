@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Mau</h1>
+[<h1 align="center">Hola 👋, soy Mau</h1>
 <h3 align="center">Un apasionado desarrollador frontend de la India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mau2109&label=Profile%20views&color=0e75b6&style=flat" alt="mau2109" /> </p>
@@ -18,3 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mau2109&" alt="mau2109" /></p>
 
+](https://www.facebook.com/amaury.osorio.148)
